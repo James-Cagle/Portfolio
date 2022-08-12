@@ -1,0 +1,9 @@
+08/05/2022 01:37:30 PM MONEY FED: 20, 20.00
+08/05/2022 01:37:43 PM Chiclets D4: 20.00, 18.65
+08/05/2022 01:37:53 PM Chiclets D4: 18.65, 17.30
+08/05/2022 01:38:08 PM Chiclets D4: 17.30, 15.95
+08/05/2022 01:38:13 PM Chiclets D4: 15.95, 14.60
+08/05/2022 01:38:17 PM Chiclets D4: 14.60, 13.25
+08/05/2022 01:38:43 PM U-Chews A1: 11.90, 10.25
+08/05/2022 01:38:49 PM Change Returned to Customer: 41 quarters, 0 dimes, 0 nickles. given for Customer Balance of $10.25.  Customer Balance Remaining: $0.00
+08/05/2022 01:39:39 PM Change Returned to Customer: 0 quarters, 0 dimes, 0 nickles. given for Customer Balance of $0.00.  Customer Balance Remaining: $0.00
